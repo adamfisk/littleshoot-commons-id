@@ -19,4 +19,11 @@
     <url>https://adamfisk@github.com/adamfisk/littleshoot-commons-id.git</url>
   </scm>
 
+  <dependencies>
+    <dependency>
+      <groupId>commons-discovery</groupId>
+      <artifactId>commons-discovery</artifactId>
+      <version>0.2</version>
+    </dependency>
+  </dependencies>
 </project>
