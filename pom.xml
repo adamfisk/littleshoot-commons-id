@@ -3,14 +3,14 @@
   <groupId>org.littleshoot</groupId>
   <artifactId>littleshoot-commons-id</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.3-SNAPSHOT</version>
   <name>LittleShoot Commons ID Fork</name>
   <url>http://www.littleshoot.org</url>
 
   <parent>
     <groupId>org.littleshoot</groupId>
     <artifactId>parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.3</version>
   </parent>
 
   <scm>
@@ -23,7 +23,7 @@
     <dependency>
       <groupId>commons-discovery</groupId>
       <artifactId>commons-discovery</artifactId>
-      <version>0.2</version>
+      <version>0.4</version>
     </dependency>
   </dependencies>
 </project>
